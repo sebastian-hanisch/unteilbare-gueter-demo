@@ -1,6 +1,6 @@
 """Befunde der README als feste Werte und Bänder: jede Zahl, die dort steht, ist hier an den festen Plänen der App geprüft.
 
-Die Presets sind einzelne Instanzen und deshalb exakt. Die Messreihen sind Anteile von 150 Instanzen mit festen Zufalls-Seeds (die Standardabweichung eines Anteils liegt bei höchstens 4 Prozentpunkten):
+Die Presets sind einzelne Instanzen und deshalb exakt. Die Messreihen sind Anteile von 150 Instanzen mit festen Zufalls-Seeds (die Standardabweichung eines Anteils liegt bei höchstens etwa 4 Prozentpunkten, 4,1 bei einem Anteil von 50 %):
 Bänder von ±10 Punkten, Nullen, Hundert-Prozent-Aussagen und „nie“-Sätze exakt (die Läufe sind deterministisch).
 """
 

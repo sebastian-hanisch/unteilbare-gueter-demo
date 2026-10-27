@@ -205,7 +205,7 @@ with st.expander("📐 Mathematische Formulierung"):
 
 **Regeln.** Nash-Wohlfahrt: $\max_o \prod_i v_i(A_i)$. Leximin: sortiere die Nutzen aufsteigend und maximiere lexikographisch. Größte Summe: $\max_o \sum_i v_i(A_i)$, jede Tour an einen Fahrer mit dem größten $v_{ig}$.
 
-**Literatur** (aus Abstracts, nicht im Original geprüft): Caragiannis, Kurokawa, Moulin, Procaccia, Shah, Wang, *The Unreasonable Fairness of Maximum Nash Welfare*, ACM TEAC 2019: die größte Nash-Wohlfahrt ist EF1 und Pareto-optimal. Neidkreis-Verfahren: Lipton u. a. 2004 (nicht nachgelesen). Dass EFX immer existiert, ist für drei Fahrer bekannt und für mehr offen (laut Sekundärquelle).
+**Literatur** (aus Abstracts, nicht im Original geprüft): Caragiannis, Kurokawa, Moulin, Procaccia, Shah, Wang, *The Unreasonable Fairness of Maximum Nash Welfare*, ACM TEAC 2019: die größte Nash-Wohlfahrt ist EF1 und Pareto-optimal. Neidkreis-Verfahren: Lipton u. a. 2004 (nicht nachgelesen). Dass EFX immer existiert, ist für zwei und drei Fahrer bekannt und für mehr offen (laut Sekundärquelle, nicht im Original geprüft).
         """
     )
 
